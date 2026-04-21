@@ -1,2 +1,3 @@
 # MUSPLAYER
-Простой мп3 Проигрыватель
+Rus : Проигрователь mp3сделанный на Python 
+Eng : An MP3 player built with Python
